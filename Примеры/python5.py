@@ -1,5 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import math
 import sys
+
 
 # Постоянная Эйлера.
 EULER = 0.5772156649015328606
