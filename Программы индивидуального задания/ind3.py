@@ -17,8 +17,8 @@ if __name__ == '__main__':
         for month in range(1, 13):
             if month == 2:
                 a = 28
-            elif (month == 1 or month == 3 or month == 5 or month == 7
-                    or month == 8 or month == 10 or month == 12):
+            elif (month == 1 or month == 3 or month == 5 or month == 7 or
+                  month == 8 or month == 10 or month == 12):
                 a = 31
             else:
                 a = 30
